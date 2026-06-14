@@ -381,7 +381,3 @@ The consciousness / "Q‑triad" material is intentionally **excluded** from this
 - S. Douady & Y. Couder (1992), *Phys. Rev. Lett.* **68**, 2098–2101 — phyllotaxis & the golden angle.
 - H. E. Puthoff (2002), *Found. Phys.* **32**, 927–943 — polarizable‑vacuum (PV) approach.
 
-### Suggested "Related identifiers" to add on Zenodo
-- `https://github.com/Fore-Wave/<repo-name>` — *is supplemented by*
-- `https://fore-wave.github.io/<repo-name>/` — *is documented by*
-- `https://phi-finder.netlify.app/` — *is related to*
